@@ -13,7 +13,7 @@ const allowedOrigins = [
   'https://boisterous-queijadas-409afa.netlify.app',
   'https://gbanty.netlify.app',
   'https://freesty.netlify.app',
-  'https://grewq.netlify.app',
+  'https://atled.netlify.app',
   'https://winnerbell.netlify.app',
   'https://fratty.netlify.app',
   'https://wwbell.vercel.app',
