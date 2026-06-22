@@ -16,6 +16,7 @@ const allowedOrigins = [
   'https://atled.netlify.app',
   'https://winnerbell.netlify.app',
   'https://fratty.netlify.app',
+  'https://homeintel.netlify.app',
   'https://wwbell.vercel.app',
    // add all your trusted frontends here
 ];
